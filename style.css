@@ -146,3 +146,13 @@ button {
     border-radius: 8px;
     font-size: 16px;
 }
+.project {
+    background: white;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.project h3 {
+    color: blue;
+}
