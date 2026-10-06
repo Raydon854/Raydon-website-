@@ -106,3 +106,10 @@ footer {
     border-radius: 8px;
     font-size: 18px;
 }
+.testimonial {
+    background: white;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-style: italic;
+}
